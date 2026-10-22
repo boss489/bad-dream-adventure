@@ -1,0 +1,21 @@
+{
+  "village": "village-background.png",
+  "shop": "shop.png",
+  "expedition": "expedition.png",
+  "expeditionWorld": "expedition-world.png",
+  "reinaAtlas": "reina-walk-atlas.png",
+  "reinaAtlasBlue": "reina-walk-blue.png",
+  "reinaAtlasRed": "reina-walk-red.png",
+  "reinaPortrait": "reina-portrait.png",
+  "fox": "fox.png",
+  "wolf": "wolf.png",
+  "bear": "bear.png",
+  "branch": "branch.png",
+  "sword": "sword.png",
+  "spear": "spear.png",
+  "shield": "shield.png",
+  "owner": "owner.png",
+  "hammer": "hammer.png",
+  "bow": "bow.png",
+  "wand": "wand.png"
+}

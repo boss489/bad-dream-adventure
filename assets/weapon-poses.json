@@ -1,0 +1,40 @@
+{
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "origin": {
+    "x": 128,
+    "y": 188
+  },
+  "directions": [
+    "down",
+    "left",
+    "right",
+    "up"
+  ],
+  "weapons": {
+    "branch": {
+      "equipped": "weapon-poses/branch-equipped.png",
+      "attack": "weapon-poses/branch-attack.png"
+    },
+    "sword": {
+      "equipped": "weapon-poses/sword-equipped.png",
+      "attack": "weapon-poses/sword-attack.png"
+    },
+    "spear": {
+      "equipped": "weapon-poses/spear-equipped.png",
+      "attack": "weapon-poses/spear-attack.png"
+    },
+    "hammer": {
+      "equipped": "weapon-poses/hammer-equipped.png",
+      "attack": "weapon-poses/hammer-attack.png"
+    },
+    "bow": {
+      "equipped": "weapon-poses/bow-equipped.png",
+      "attack": "weapon-poses/bow-attack.png"
+    },
+    "wand": {
+      "equipped": "weapon-poses/wand-equipped.png",
+      "attack": "weapon-poses/wand-attack.png"
+    }
+  }
+}
