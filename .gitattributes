@@ -1,0 +1,2 @@
+# Keep the tested self-contained artifact byte-identical.
+index.html -text
